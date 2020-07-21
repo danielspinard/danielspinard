@@ -4,6 +4,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/danielspinard](https://github.com/danielspinard)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=danielspinard" alt="danielspinard" /> </p>
+
 <p align="center">
   <img src="https://konpa.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/>
   <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> 
