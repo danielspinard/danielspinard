@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Daniel</h1>
-<h3 align="center">A back-end developer passionate about new technologies, intending to become a full-stack developer ^^</h3>
+<h3 align="center">A back-end developer passionate about new technologies, intending to become a full-stack developer.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/danielspinard](https://github.com/danielspinard)
-
-
 
 <p align="center">
   <img src="https://konpa.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/>
