@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
+<h1 align="center">Hi, I'm Daniel</h1>
 <h3 align="center">A back-end developer passionate about new technologies, intending to become a full-stack developer ^^</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielspinard" alt="danielspinard" /> </p>
 
