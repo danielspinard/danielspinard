@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Daniel</h1>
+<h2 align="center">Hi, I'm Daniel</h2>
 <h4 align="center">A back-end developer passionate about new technologies, intending to become a full-stack developer.</h4>
 
 <p align="center">
