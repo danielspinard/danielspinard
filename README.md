@@ -4,7 +4,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/danielspinard](https://github.com/danielspinard)
 
 <p align="center">
-  php|javascript|sql|laravel|bootstrap
+  php | javascript | sql | laravel | bootstrap
 </p>
 
 <p align="center">
