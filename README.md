@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Daniel</h1>
-<h3 align="center">A back-end developer passionate about new technologies, intending to become a full-stack developer.</h3>
-
-- 👨‍💻 All of my projects are available at [https://github.com/danielspinard](https://github.com/danielspinard)
+<h4 align="center">A back-end developer passionate about new technologies, intending to become a full-stack developer.</h4>
 
 <p align="center">
   php | javascript | sql | laravel | bootstrap
