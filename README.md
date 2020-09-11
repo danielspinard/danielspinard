@@ -1,7 +1,7 @@
 <h3 align="center">Back-end developer, coming soon full-stack developer.</h3>
 
 <p align="center">
-  php | javascript | sql | laravel | wordpress | bootstrap
+  php | javascript | sql | laravel | bootstrap
 </p>
 
 <p align="center">
